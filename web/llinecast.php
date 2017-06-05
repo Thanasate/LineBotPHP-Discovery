@@ -4,9 +4,9 @@ $access_token = 'ZgpRcbRD6kl5NglvR1B8kW/7dlDAPOPyLuNIs0yShmkcmS3enk4f4oSQhXNkBM/
 // Get POST body content
 $content = file_get_contents('php://input');
 
-$toUserId = ['Uce18597db9ebe2b656acffeea97a4bbf','Uc57b718f0d0275936224f51bf12906e5']
+$toUserId = ['Uce18597db9ebe2b656acffeea97a4bbf','Uc57b718f0d0275936224f51bf12906e5'];
 
-$text = 'CN data details'
+$text = 'CN data details';
 
 // Build message to reply back
 $messages = [
